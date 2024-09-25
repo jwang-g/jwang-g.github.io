@@ -14,13 +14,6 @@
       "countryCode": "USA",
       "region": "Maine"
     },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
   },
   "work": [
     {
@@ -29,18 +22,6 @@
       "url": "",
       "startDate": "2022-09-01",
       "endDate": "now",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [""]
     }
