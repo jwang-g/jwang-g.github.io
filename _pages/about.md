@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About BGEMM
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. School of Earth and Climate Sciences, University of Maine.
 
