@@ -11,15 +11,15 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: PI_Wang.jpg
-    content: #about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: about_JzW.md
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p> Room 121 </p>
-      <p>16-40 Grove St Ext </p>
+      <p>Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
     image: #prof_pic.jpg
-    content: #about_einstein.md
+    content: #about_RS.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -27,7 +27,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: right
     image:
-    content:
+    content:about_AJ.md
     image_circular: false
     more_info: >
       <p>Room 105</p>
