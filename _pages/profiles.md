@@ -27,7 +27,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: right
     image:
-    content:about_AJ.md
+    content: about_AJ.md
     image_circular: false
     more_info: >
       <p>Room 105</p>
