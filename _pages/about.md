@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About BGEM^2
+title: About BGEM<sup>2</sup>
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. School of Earth and Climate Sciences, University of Maine.
 
