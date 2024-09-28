@@ -19,7 +19,7 @@ profiles:
       <p>Orono, ME 04473</p>
   - align: left
     image: #prof_pic.jpg
-    content: #about_RS.md
+    content: about_RS.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
