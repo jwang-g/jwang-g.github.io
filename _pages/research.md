@@ -4,5 +4,5 @@ permalink: /research/
 title: research
 description: TBA
 nav: true
-nav_order: 6
+nav_order: 4
 ---
