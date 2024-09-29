@@ -1,9 +1,9 @@
 ---
 layout: about
 title: About BGEM<sup>2</sup>
-subtitle: BioGEological Monitoring & Modeling Laboratory
+#subtitle: BioGEological Monitoring & Modeling Laboratory
 permalink: /
-subtitle: 
+subtitle: BioGEological Monitoring & Modeling Laboratory
 
 profile:
   align: right
