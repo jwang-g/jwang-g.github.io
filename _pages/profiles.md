@@ -14,32 +14,32 @@ profiles:
     content: about_JzW.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p> Room 121 </p>
-      <p>Bryand Global Sciences Center </p>
+      <p> Jiaze Wang </p>
+      <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
     image: #prof_pic.jpg
     content: about_RS.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Room 106</p>
-      <p>Bryand Global Science Center</p>
+      <p>Rachael Smith</p>
+      <p>Room 106, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: right
     image:
     content: about_AJ.md
-    image_circular: false
+    image_circular: true
     more_info: >
-      <p>Room 106</p>
-      <p>Bryand Global Science Center</p>
+      <p>Anna Johnston</p>
+      <p>Room 106, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: left
     image:
     content:
-    image_circular: false
+    image_circular: true
     more_info: >
-      <p>Room 106</p>
-      <p>Bryand Global Science Center</p>
+      <p>Grace Wang</p>
+      <p>Room 121, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
 
 ---
