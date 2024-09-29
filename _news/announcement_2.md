@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBA
-date: 
+date: 2024-09-02 00:00:00-0400
 inline: false
 related_posts: false
 ---
