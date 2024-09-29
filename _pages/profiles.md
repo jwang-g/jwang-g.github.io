@@ -14,7 +14,7 @@ profiles:
     content: about_JzW.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p> Jiaze Wang </p>
+      <p> Dr. Jiaze Wang </p>
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
