@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the BGEMM lab
+description: Members of the BGEM<sup>2</sup> Lab
 nav: true
 nav_order: 3
 
@@ -22,15 +22,15 @@ profiles:
     content: about_RS.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Room 106</p>
+      <p>Bryand Global Science Center</p>
+      <p>University of Maine, Orono, ME</p>
   - align: right
     image:
     content: about_AJ.md
     image_circular: false
     more_info: >
-      <p>Room 105</p>
+      <p>Room 106</p>
       <p>Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: left
@@ -38,7 +38,7 @@ profiles:
     content:
     image_circular: false
     more_info: >
-      <p>Room 105</p>
+      <p>Room 106</p>
       <p>Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
 
