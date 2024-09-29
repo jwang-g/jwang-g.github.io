@@ -34,7 +34,7 @@ profiles:
       <p>Room 106, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: left
-    image:
+    image: grace.jpg
     content:
     image_circular: true
     more_info: >
