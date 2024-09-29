@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBA
+Upcoming lab trip during fall break 
