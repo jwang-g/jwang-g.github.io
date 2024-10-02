@@ -18,7 +18,7 @@ profiles:
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
-    image: #prof_pic.jpg
+    image: RS.jpeg
     content: about_RS.md
     image_circular: true # crops the image to make it circular
     more_info: >
