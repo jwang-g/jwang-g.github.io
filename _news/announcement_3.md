@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Upcoming lab trip during fall break 
+Fun trip to University of New England!
