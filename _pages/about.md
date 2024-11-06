@@ -19,3 +19,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 We are a group of geoscientists who are interested in exploring the interactions between biological and geological processes in coastal system. We employ both numerical modeling and field monitoring approaches to understand biogeochemical interactions and carbon sequestration in coastal system under changing climate. 
+
+We are currently not recruitting any new graduate students for 2025. 
