@@ -39,6 +39,6 @@ profiles:
     #image_circular: true # crops the image to make it circular
     more_info: >
       <p>Past Participants</p>
-      <p>Rachael Smith, M.S. Student, 2025</p>
+      <p>Rachael Smith, M.S. Student, 2025 </p>
      
 ---
