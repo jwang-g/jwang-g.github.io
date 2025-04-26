@@ -18,14 +18,6 @@ profiles:
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
-    image: RS.jpeg
-    content: about_RS.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Rachael Smith</p>
-      <p>Room 106, Bryand Global Science Center</p>
-      <p>University of Maine, Orono, ME</p>
-  - align: left
     image:
     content: about_AJ.md
     image_circular: true
