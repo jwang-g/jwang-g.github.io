@@ -25,7 +25,7 @@ profiles:
       <p>Rachael Smith</p>
       <p>Room 106, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
-  - align: right
+  - align: left
     image:
     content: about_AJ.md
     image_circular: true
@@ -33,7 +33,7 @@ profiles:
       <p>Anna Johnston</p>
       <p>Room 106, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
-  - align: left
+  - align: right
     image: grace.jpg
     content:
     image_circular: true
@@ -41,5 +41,12 @@ profiles:
       <p>Grace Wang</p>
       <p>Room 121, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
-
+  - align: left
+    #image: RS.jpeg
+    #content: about_RS.md
+    #image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Past Participants</p>
+      <p>Rachael Smith, M.S. Student, 2025</p>
+     
 ---
