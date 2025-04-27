@@ -25,7 +25,15 @@ profiles:
       <p>Anna Johnston</p>
       <p>Room 106, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
-  - align: right
+    - align: right
+    image:
+    content: 
+    image_circular: true
+    more_info: >
+      <p>Molly Howkins-Griffiths</p>
+      <p>Room 116, Bryand Global Science Center</p>
+      <p>University of Maine, Orono, ME</p>
+  - align: left
     image: grace.jpg
     content:
     image_circular: true
