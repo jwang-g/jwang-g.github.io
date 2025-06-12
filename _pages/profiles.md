@@ -18,7 +18,7 @@ profiles:
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
-    image:
+    image: AnnaJohnston.jpg
     content: about_AJ.md
     image_circular: true
     more_info: >
