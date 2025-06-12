@@ -48,5 +48,6 @@ profiles:
     more_info: >
       <p>Past Participants</p>
       <p>  Rachael Smith, M.S., 2025 </p>
+      <p>  Maddie Brown, Undergradate Researcher, 2024 </p>
      
 ---
