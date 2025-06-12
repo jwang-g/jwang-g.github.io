@@ -1,1 +1,1 @@
-Anna Johnston
+Anna is a remote sensing analyst studying geomorphological change in coastal wetlands. She is currently researching ponding and erosion in southern Maine's tidal wetlands. Her project focuses on the creation of a machine learning algorithm to identify these features in spectral imaging.
