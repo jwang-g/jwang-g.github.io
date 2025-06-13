@@ -18,7 +18,7 @@ profiles:
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
-    image: AnnaJohnston.jpg
+    image: AJ.jpg
     content: about_AJ.md
     image_circular: true
     more_info: >
@@ -48,6 +48,6 @@ profiles:
     more_info: >
       <p>Past Participants</p>
       <p>  Rachael Smith, M.S., 2025 </p>
-      <p>  Maddie Brown, UnderGrad, 2024 </p>
+      <p>  Maddie Brown, UGS, 2024 </p>
      
 ---
