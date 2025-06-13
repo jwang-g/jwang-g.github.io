@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 105, Bryand Global Science Center</p>
+    <p>Room 114, Bryand Global Science Center</p>
     <p>16-40 Grove St Ext</p>
     <p>Orono, ME 04473</p>
 
