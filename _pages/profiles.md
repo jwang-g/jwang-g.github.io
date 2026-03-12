@@ -49,14 +49,18 @@ profiles:
       <p>Grace Wang</p>
       <p>Room 121, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
-  - align: left
+  **Past Participants**
+  - Molly Howkins-Griffiths, UGS, 2025
+  - Rachael Smith, M.S., 2025
+  - Maddie Brown, UGS, 2024
+  #- align: left
     #image: RS.jpeg
     #content: about_RS.md
     #image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Past Participants</p>
-      <p>  Molly Howkins-Griffiths, UGS, 2025 </p>
-      <p>  Rachael Smith, M.S., 2025 </p>
-      <p>  Maddie Brown, UGS, 2024 </p>
+    #more_info: >
+      #<p>Past Participants</p>
+      #<p>  Molly Howkins-Griffiths, UGS, 2025 </p>
+      #<p>  Rachael Smith, M.S., 2025 </p>
+      #<p>  Maddie Brown, UGS, 2024 </p>
      
 ---
