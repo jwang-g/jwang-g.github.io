@@ -18,7 +18,7 @@ profiles:
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
-    image: SC.jpeg
+    image: SC.jpg
     content: about_SC.md
     image_circular: true
     more_info: >
@@ -26,7 +26,7 @@ profiles:
       <p>Room 114, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: right
-    image: ND.jpeg
+    image: ND.jpg
     content: about_ND.md
     image_circular: true
     more_info: >
@@ -34,8 +34,8 @@ profiles:
       <p>Room 114, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: left
-    image: DW.jpeg
-    content: about_ND.md
+    image: 
+    content: 
     image_circular: true
     more_info: >
       <p>Dan Wilson </p>
