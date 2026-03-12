@@ -18,20 +18,28 @@ profiles:
       <p> Room 121, Bryand Global Sciences Center </p>
       <p>Orono, ME 04473</p>
   - align: left
-    image: AJ.jpeg
-    content: about_AJ.md
+    image: SC.jpeg
+    content: about_SC.md
     image_circular: true
     more_info: >
-      <p>Anna Johnston</p>
-      <p>Room 106, Bryand Global Science Center</p>
+      <p>Sarah Chang</p>
+      <p>Room 114, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: right
-    image:
-    content: 
+    image: ND.jpeg
+    content: about_ND.md
     image_circular: true
     more_info: >
-      <p>Molly Howkins-Griffiths</p>
-      <p>Room 116, Bryand Global Science Center</p>
+      <p>Nic Donnellan</p>
+      <p>Room 114, Bryand Global Science Center</p>
+      <p>University of Maine, Orono, ME</p>
+  - align: left
+    image: DW.jpeg
+    content: about_ND.md
+    image_circular: true
+    more_info: >
+      <p>Dan Wilson </p>
+      <p>Room 114, Bryand Global Science Center</p>
       <p>University of Maine, Orono, ME</p>
   - align: left
     image: grace.jpg
@@ -47,6 +55,7 @@ profiles:
     #image_circular: true # crops the image to make it circular
     more_info: >
       <p>Past Participants</p>
+      <p>  Molly Howkins-Griffiths, UGS, 2025 </p>
       <p>  Rachael Smith, M.S., 2025 </p>
       <p>  Maddie Brown, UGS, 2024 </p>
      
