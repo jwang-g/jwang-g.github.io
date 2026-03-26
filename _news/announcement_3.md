@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Fun group trip to the University of New England!
-date: 2024-10-15 12:00:00-0400
+title: 2026 Maine Sustainability & Water Conference!
+date: 2026-03-26 12:00:00-0400
 inline: false
 related_posts: false
 tags: formatting images
-thumbnail: assets/img/group_photo24.jpg
+thumbnail: assets/img/SC_ND_26.jpg
 ---
-Lab members visit UNE Biddeford campus, Biddeford, Maine. A wonderful drone flight experience!
+Sarah and Nic successfully presented their team research at the Maine Sustainability & Water Conference! (photo credits to Dr.Reeve from ECS, UMaine)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
