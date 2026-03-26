@@ -4,7 +4,7 @@ title: 2026 Maine Sustainability & Water Conference!
 date: 2026-03-26 12:00:00-0400
 inline: false
 related_posts: false
-tags: formatting images
+tags: ECS UMaine Sustainability&Water 2026
 thumbnail: assets/img/SC_NC_26.jpg
 ---
 Sarah and Nic successfully presented their team research at the Maine Sustainability & Water Conference! 
